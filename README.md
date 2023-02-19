@@ -10,7 +10,6 @@ Simple project designed to introduce you to html in an interactive way
 ```html
 <div>
 
-
  -> <p> Open the folder with all the files in Visual Studio Code or any editor of choice of your choice. </p>
   
  -> <p> Go to the folder where the downloaded files are located and open > index.html in a browser. </p>
@@ -19,7 +18,10 @@ Simple project designed to introduce you to html in an interactive way
 
  -> <p> Edit the index.html </p>
 
- -> <p> To SEE the changes made --> refresh the page you opened in --> # 2 </p>
+ -> <p> To SEE the changes made --> refresh the page you opened in --> # 2 </p> 
+ 
+ 
+ ~ have fun
 
 </div>
 ```
