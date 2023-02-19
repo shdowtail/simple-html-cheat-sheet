@@ -7,7 +7,7 @@ Simple project designed to introduce you to html in an interactive way
 
 
 ## Usage
-```css
+```html
 <div>
 
 # 1
